@@ -1,6 +1,6 @@
 # itwl_helloworld
 
-Hello world na telefon Majki
+Hello world na telefon
 
 ## Getting Started
 
